@@ -1,0 +1,4 @@
+setup\Setup.class
+RunCucumberTest.class
+StepDefinitions\LoginStepDefinitions.class
+Pages\loginPage.class
